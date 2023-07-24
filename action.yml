@@ -1,0 +1,6 @@
+name: "EGS Build Patch Tool action"
+author: "Anton Bravin"
+
+runs:
+  using: "docker"
+  image: "Dockerfile"
